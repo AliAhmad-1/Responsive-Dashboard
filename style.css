@@ -45,7 +45,6 @@ body {
 
 .aside-container {
     width: 200px;
-    height: 100%;
 }
 
 .aside-container .logo,
@@ -84,10 +83,9 @@ a {
 }
 
 .nav ul {
-    margin-left: 1.5rem;
+    width: 90%;
     background-color: var(--color-white);
     list-style-type: none;
-    height: 89vh;
     display: flex;
     justify-content: start;
     flex-direction: column;
