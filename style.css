@@ -173,6 +173,7 @@ a {
     top: 0;
     left: -200px;
     width: 200px;
+    height: 100%;
     background-color: var(--color-white);
     z-index: 999;
     transition: 0.5s;
